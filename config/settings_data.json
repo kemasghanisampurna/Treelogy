@@ -134,7 +134,7 @@
             "type": "social",
             "settings": {
               "title": "WhatsApp",
-              "url": "https://api.whatsapp.com/send?phone=6281139603993",
+              "url": "https://api.whatsapp.com/send?phone=628113973336",
               "icon": "shopify://shop_images/whatsapp-icon.png"
             }
           }
